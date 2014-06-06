@@ -1,4 +1,3 @@
 h1. jsongraph.rb
 
-This library provides serializers and validators that implement the
-"json-graph-format":http://json-graph-format.info/.
+This library provides serializers and validators that implement the "json-graph-format":http://json-graph-format.info/.
