@@ -1,0 +1,5 @@
+--format documentation
+--color
+--backtrace
+--profile 3
+--warnings
