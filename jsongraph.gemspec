@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.name          = "jsongraph.rb"
   s.version       = JsonGraph::Version
   s.licenses      = ["MIT"]
-  s.summary       = "JsonGraph library for Rubies"
-  s.description   = %q{Implements the json-graph-specification for Rubies.
+  s.summary       = "JsonGraph library for rubies"
+  s.description   = %q{Implements the json-graph-specification for rubies.
                        This library provides serializers and validators.}.
                     gsub(%r{^\s+}, " ").gsub(%r{\n}, "")
   s.authors       = ["Anthony Bargnesi"]
